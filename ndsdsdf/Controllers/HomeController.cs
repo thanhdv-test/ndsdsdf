@@ -20,7 +20,7 @@ namespace ndsdsdf.Controllers
 
         public IActionResult Index()
         {
-            return View();//jhjnadhashd
+            return View();//jhjnadhashdhjjh
         }
 
         public IActionResult Privacy()
